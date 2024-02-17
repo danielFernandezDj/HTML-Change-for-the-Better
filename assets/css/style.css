@@ -20,6 +20,10 @@ footer,
     color: white;
 }
 
+.fix-icon {
+    
+}
+
 @keyframes blink-animation {
     to {
         visibility: hidden;
